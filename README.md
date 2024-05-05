@@ -1,1 +1,1 @@
-# AyuboDrive
+# "AyuboDrive" is a vehicle hire and rental management system developed using the C# Windows Forms applicationMicrosoft SQL Server is the database used here. . This system was created for my HND in Computing (Software Engineering) module, Programming.
